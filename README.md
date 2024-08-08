@@ -2,7 +2,6 @@
 
 
 #### Tipos de Commit:
-O tipo do commit vem no prefixo da mensagem e utilizar o correto irá contribuir para a construção automática das [Release Notes](https://github.com/olxbr/delivery-service/releases), visto que serão formatadas de acordo com o tipo escolhido.
 Os mais utilizados são:
 * **feat**: Novo recurso.
 * **fix**: Correção de _bug_.
